@@ -1,5 +1,5 @@
 ---
-title: 校队选拔公告
+title: 校队选拔告
 icon: laptop-code
 ---
 
